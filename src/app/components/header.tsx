@@ -17,13 +17,19 @@ export default function Header() {
                     </p>
                 </div>
                 <div className="text-xl flex justify-center items-center">
-                    <p className="text-blue-500 hover:text-blue-700" style={textStyle}>About</p>
+                    <p className="text-blue-500 hover:text-blue-700" style={textStyle}>
+                        About
+                    </p>
                 </div>
                 <div className="text-xl flex justify-center items-center">
-                    <p className="text-blue-500 hover:text-blue-700" style={textStyle}>Portfolio</p>
+                    <p className="text-blue-500 hover:text-blue-700" style={textStyle}>
+                        Portfolio
+                    </p>
                 </div>
                 <div className="text-xl flex justify-center items-center">
-                    <p className="text-blue-500 hover:text-blue-700" style={textStyle}>Contact</p>
+                    <p className="text-blue-500 hover:text-blue-700" style={textStyle}>
+                        Contact
+                    </p>
                 </div>
             </div>
             <div className="grid grid-cols-2">
