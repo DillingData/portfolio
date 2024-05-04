@@ -5,7 +5,7 @@ const textStyle = {
 
 export default function Header() {
     return(
-        <div className="h-20 w-full grid grid-cols-3 shadow-lg">
+        <div className="h-[10%] w-full grid grid-cols-3 shadow-lg">
             <div className="grid grid-cols-2">
                 <div>{/* Add Logo Here */}</div>
                 <div></div>
