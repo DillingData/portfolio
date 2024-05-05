@@ -10,7 +10,7 @@ export default function HomeBody() {
                         <h1 className='text-2xl'>About Me</h1>
                         <br />
                         <p>
-                            Hi there! I'm Thomas Dilling-Hansen, a passionate Fullstack web developer with 2 years of experience in creating dynamic and 
+                            Hi there! I am Thomas Dilling-Hansen, a passionate Fullstack web developer with 2 years of experience in creating dynamic and 
                             user-friendly web applications. My expertise lies in ASP.NET, JavaScript, TailWindCSS, Bootstrap, Next.JS, and React Native.
                         </p>
                         <br />
@@ -25,7 +25,7 @@ export default function HomeBody() {
                         </p>
                         <br />
 
-                        <p className='font-bold'>Let's build something incredible together!</p>
+                        <p className='font-bold'>Lets build something incredible together!</p>
                     </div>
                 </div>
                 <div className='flex justify-center items-center'>
