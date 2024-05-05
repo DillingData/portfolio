@@ -3,9 +3,11 @@
 
  export default function portfolio() {
     return(
-        <div>
+        <div className="bg-white h-screen">
             <Header />
-            <p>Portfolio</p>
+            <div className="text-[#011b45]">
+                <p>Portfolio</p>
+            </div>
         </div>
     )
  }

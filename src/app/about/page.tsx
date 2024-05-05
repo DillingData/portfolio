@@ -3,9 +3,11 @@ import Header from "../components/header"
 
 export default function About() {
     return(
-        <div>
+        <div className="bg-white h-screen">
             <Header />
-            <p>About me</p>
+            <div className="text-[#011b45]">
+                <p>About me</p>
+            </div>
         </div>
     )
 }
