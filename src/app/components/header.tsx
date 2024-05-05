@@ -20,7 +20,9 @@ export default function Header() {
             </div>
             <div className="flex justify-center items-center">
                 <div className="text-xl m-5" >
+                    <Link href='/'>
                     <FontAwesomeIcon className='text-blue-500 hover:text-blue-700' icon={faHouse} width='20' />
+                    </Link>
                 </div>
                 {/* 
                 <div className="text-xl flex justify-center items-center" >
@@ -35,9 +37,9 @@ export default function Header() {
                     </Link>
                 </div>
                 <div className="text-xl m-5">
-                    <p className="text-blue-500 hover:text-blue-700" style={textStyle}>
+                    <Link className="text-blue-500 hover:text-blue-700" style={textStyle} href='portfolio'>
                         Portfolio
-                    </p>
+                    </Link>
                 </div>
                 <div className="text-xl m-5">
                     <p className="text-blue-500 hover:text-blue-700" style={textStyle}>
