@@ -7,10 +7,10 @@ export default function HomeBody() {
             <div className='md:grid md:grid-cols-2 h-full'>
                 <div className='text-[#011b45] p-5 text-center md:text-left md:flex md:justify-center md:items-center'>
                     <div className=''>
-                        <h1 className='text-2xl'>About Me</h1>
+                        <h1 className='text-2xl font-bold'>Hi there!</h1>
                         <br />
                         <p>
-                            Hi there! I am Thomas Dilling-Hansen, a passionate Fullstack web developer with 2 years of experience in creating dynamic and 
+                            I am Thomas Dilling-Hansen, a passionate Fullstack web developer with 2 years of experience in creating dynamic and 
                             user-friendly web applications. My expertise lies in ASP.NET, JavaScript, TailWindCSS, Bootstrap, Next.JS, and React Native.
                         </p>
                         <br />
