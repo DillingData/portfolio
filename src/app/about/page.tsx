@@ -17,8 +17,15 @@ export default function About() {
             <Header />
             <div className="text-[#011b45]"> 
                 <div className="mx-10">
-                    <p className="text-main-text text-center text-xl mt-5 lg:text-2xl">I am a self-taught Developer, I have experience with the following technologies from 
-                        working at a major logistics company as a Full-Stack Developer</p>
+                    <p className="text-main-text text-center text-xl mt-5 lg:text-2xl">Welcome to my corner of the digital world!</p>
+                    <p className="mt-5">I am Thomas, a passionate full-stack developer with a background in freight forwarding. 
+                    My journey into the realm of technology began in 2013 when I discovered my fascination for IT. From providing first and second-line 
+                    support to diving headfirst into coding, I have embraced every challenge along the way.</p>
+                    <p className="mt-5">When I am not immersed in code, you will find me cherishing moments with my family, exploring new technologies, 
+                    and delving into coding challenges. My passion for programming is fueled by the thrill of 
+                    problem-solving and the endless possibilities it offers.</p>
+                    <p className="mt-5">Explore my page to discover more about my experiences, projects, and the tech stack I am proficient in. 
+                    Let us embark on this coding journey together!</p>
                 </div>
                 <div className="bg-white">
                     <div className="bg-background-main mt-5 grid grid-cols-2 gap-5 lg:mt-24 lg:mx-10 lg:grid-cols-5 lg:gap-5 lg:pb-14">
