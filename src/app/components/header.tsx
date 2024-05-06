@@ -42,9 +42,9 @@ export default function Header() {
                     </Link>
                 </div>
                 <div className="text-xl m-5">
-                    <p className="text-blue-500 hover:text-blue-700" style={textStyle}>
+                    <a className="text-blue-500 hover:text-blue-700" style={textStyle} href="mailto: thomas@dillingdata.se">
                         Contact
-                    </p>
+                    </a>
                 </div>
             </div>
             <div className="grid grid-cols-2">
