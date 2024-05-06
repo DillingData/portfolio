@@ -3,9 +3,9 @@ import homeImg from '../../img/homeimg.jpg'
 
 export default function HomeBody() {
     return(
-        <div className='h-[90%]'>
-            <div className='grid grid-cols-2 h-full'>
-                <div className='text-[#011b45] m-5 flex justify-center items-center'>
+        <div className='md:h-[90%]'>
+            <div className='md:grid md:grid-cols-2 h-full'>
+                <div className='text-[#011b45] p-5 text-center md:text-left md:flex md:justify-center md:items-center'>
                     <div className=''>
                         <h1 className='text-2xl'>About Me</h1>
                         <br />
@@ -28,8 +28,8 @@ export default function HomeBody() {
                         <p className='font-bold'>Lets build something incredible together!</p>
                     </div>
                 </div>
-                <div className='flex justify-center items-center'>
-                    <div className='m-5'>
+                <div className='bg-white md:flex md:justify-center md:items-center'>
+                    <div className='p-5'>
                         <img className='rounded-3xl' src={homeImg.src} />
                     </div>
                 </div>

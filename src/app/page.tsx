@@ -6,7 +6,7 @@ import Link from "next/link";
 
 export default function Home() {
     return(
-        <div className="bg-white h-screen">
+        <div className="bg-white h-screen ">
             <Header />
             <HomeBody />
         </div>
