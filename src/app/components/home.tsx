@@ -28,7 +28,7 @@ export default function HomeBody() {
                         <p className='font-bold'>Lets build something incredible together!</p>
                     </div>
                 </div>
-                <div className='bg-white md:flex md:justify-center md:items-center'>
+                <div className='bg-white md:bg-inherit md:flex md:justify-center md:items-center'>
                     <div className='p-5'>
                         <img className='rounded-3xl' src={homeImg.src} />
                     </div>
