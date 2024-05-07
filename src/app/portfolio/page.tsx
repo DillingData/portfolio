@@ -11,11 +11,12 @@
             <div className="text-[#011b45] bg-white md:bg-transparent">
                 <div className="text-center m-5">
                     <p className="md:text-xl">
-                    Welcome to my portfolio! Here, you'll find a collection of web projects showcasing my skills and expertise in web development. 
+                    <span className="text-bold">Welcome to my portfolio!</span> Here, you will find a collection of 
+                    web projects showcasing my skills and expertise in web development. 
                     From responsive designs to intuitive interfaces, each project reflects my commitment to delivering high-quality solutions 
                     that exceed expectations. I invite you to explore these projects and discover the creativity and craftsmanship 
                     behind each one. Thank you for visiting, and feel free to reach out if you have any questions or collaboration opportunities 
-                    in mind. Let's build something great together!
+                    in mind. Let us build something great together!
                     </p>
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-3 mt-5">
