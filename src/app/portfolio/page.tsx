@@ -8,7 +8,7 @@
         <div className="bg-white h-screen">
             <Header />
             <div className="text-[#011b45]">
-                <div className="grid grid-cols-2 mt-5">
+                <div className="grid grid-cols-1 md:grid-cols-2 mt-5">
                     <div className="flex justify-end items-center m-5">
                         <div className="w-96 h-96 rounded overflow-hidden shadow-lg">
                             <a href="https://www.skanemorskan.se" target="_blank">
