@@ -37,7 +37,7 @@ export default function Header() {
                     </Link>
                 </div>
                 <div className="text-xl m-5">
-                    <Link className="text-blue-500 hover:text-blue-700" style={textStyle} href='portfolio'>
+                    <Link className="text-blue-500 hover:text-blue-700" style={textStyle} href='/portfolio'>
                         Portfolio
                     </Link>
                 </div>
