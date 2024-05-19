@@ -1,6 +1,6 @@
 import React from "react";
-import Header from "./components/header";
-import HomeBody from "./components/home";
+import Header from "../components/header";
+import HomeBody from "../components/home";
 
 
 export default function Home() {

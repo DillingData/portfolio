@@ -1,5 +1,5 @@
  import React from "react";
- import Header from "../components/header";
+ import Header from "../../components/header";
  import skaan from "../../img/Skanemorskan.png"
  import tms from "../../img/TrioPlanning.png"
  import landing from "../../img/landingPage.png"

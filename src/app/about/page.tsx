@@ -1,5 +1,5 @@
 import React from "react"
-import Header from "../components/header"
+import Header from "../../components/header"
 import JSLogo from '../../img/Logos/JSLogo.png'
 import ASPNET from '../../img/Logos/ASPNETLogo.png'
 import CSharp from '../../img/Logos/CSharpLogo.png'

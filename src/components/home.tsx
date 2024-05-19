@@ -1,5 +1,5 @@
 import React from 'react';
-import homeImg from '../../img/homeimg.jpg'
+import homeImg from '../img/homeimg.jpg'
 
 export default function HomeBody() {
     return(
